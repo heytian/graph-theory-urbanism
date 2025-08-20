@@ -20,7 +20,7 @@ In progress as part of a research collaboration between the Massachusetts Instit
     <td valign="center"><img src="GIS_Python_dualprocess.png"></td>
   </tr>
   <tr>
-    <td valign="center">Overview of parallel processes; see detailed geoprocessing workflow documented in <a href="/Code/Process.ipynb"><u> here in this jupyter notebook.</u></a>
+    <td valign="center">Overview of parallel processes; see detailed geoprocessing workflow documented <a href="/Code/Process.ipynb"><u> here in this jupyter notebook.</u></a>
   </a></td>
   </tr>
  </table>
