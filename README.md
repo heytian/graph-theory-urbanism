@@ -13,4 +13,4 @@ A geospatial project utilizing parallel ArcGIS (sDNA, ArcPy) and Python (Network
   </tr> -->
  </table>
 
-In progress from June to August 2025, as part of a research collaboration between the Massachusetts Institute of Technology (MIT) and the Vilnius Academy of Arts (VDA) under the New European Bauhaus (NEB) Interdisicplinary Initiatives and MIT International Science and Technology Initiatives (MISTI).
+In progress as part of a research collaboration between the Massachusetts Institute of Technology (MIT) and the Vilnius Academy of Arts (VDA) under the New European Bauhaus (NEB) Interdisicplinary Initiatives and MIT International Science and Technology Initiatives (MISTI).
