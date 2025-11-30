@@ -1,9 +1,6 @@
 ## Graph Theory Urbanism
 
 A geospatial project utilizing parallel ArcGIS (sDNA, ArcPy) and Python (NetworkX) workflows to triangulate results for graph theory simulations of cities.
-See further documentation of parallel ArcPy/sDNA x NetworkX process pipelines:
-- ArcPy workflow: https://github.com/heytian/graph-theory-urbanism/blob/main/Code/ProcessTools_ArcPy_SDNA_workflow.ipynb
-- NetworkX workflow: https://github.com/heytian/graph-theory-urbanism/blob/main/Code/ProcessTools_NetworkX_workflow.ipynb
 
 <table>
   <tr>
@@ -23,7 +20,12 @@ In progress as part of a research collaboration between the Massachusetts Instit
     <td valign="center"><img src="GIS_Python_dualprocess.png"></td>
   </tr>
   <tr>
-    <td valign="center">Overview of parallel processes; see detailed geoprocessing workflow documented <a href="/Code/Process.ipynb"><u> here in this jupyter notebook.</u></a>
+    <td valign="center">Overview of parallel processes</u></a>
   </a></td>
   </tr>
  </table>
+
+ See further documentation of parallel ArcPy/sDNA x NetworkX process pipelines:
+- ArcPy workflow: https://github.com/heytian/graph-theory-urbanism/blob/main/Code/ProcessTools_ArcPy_SDNA_workflow.ipynb
+- NetworkX workflow: https://github.com/heytian/graph-theory-urbanism/blob/main/Code/ProcessTools_NetworkX_workflow.ipynb
+
